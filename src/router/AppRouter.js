@@ -1,7 +1,7 @@
 import React from 'react';
 import { useSelector } from 'react-redux';
 import { BrowserRouter as Router, Navigate, Route, Routes } from 'react-router-dom';
-import NavbarComp from '../components/NavbarComp';
+import NavbarComp from '../components/Navbar';
 import Home from '../pages/Home';
 import Login from '../pages/Login';
 import NewBlog from '../pages/NewBlog';
